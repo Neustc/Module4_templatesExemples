@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.12)  12 APR 2021 17:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.12)  12 APR 2021 17:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -551,26 +551,685 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 (c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/dcolumn.
 sty
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+) (c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/stix.st
+y
+Package: stix 2018/04/17 v1.1.3-latex STIX fonts support package
+Now handling font encoding LS1 ...
+... no UTF-8 mapping file for font encoding LS1
+Now handling font encoding LS2 ...
+... no UTF-8 mapping file for font encoding LS2
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 76.
+LaTeX Font Info:    Encoding `OML' has changed to `LS1' for symbol font
+(Font)              `letters' in the math version `normal' on input line 76.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> LS1/stix/m/it on input line 76.
+LaTeX Font Info:    Encoding `OML' has changed to `LS1' for symbol font
+(Font)              `letters' in the math version `bold' on input line 76.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> LS1/stix/m/it on input line 76.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 77.
+LaTeX Font Info:    Encoding `OT1' has changed to `LS1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> LS1/stix/m/n on input line 77.
+LaTeX Font Info:    Encoding `OT1' has changed to `LS1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> LS1/stix/m/n on input line 77.
+\symbold-operators=\mathgroup4
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 79.
+LaTeX Font Info:    Encoding `OMS' has changed to `LS1' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 79.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LS1/stixscr/m/n on input line 79.
+LaTeX Font Info:    Encoding `OMS' has changed to `LS1' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 79.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LS1/stixscr/m/n on input line 79.
+\symsymbols2=\mathgroup5
+\symsymbols3=\mathgroup6
+\symsymbols4=\mathgroup7
+\symintegrals=\mathgroup8
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 84.
+LaTeX Font Info:    Encoding `OMX' has changed to `LS2' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 8
+4.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LS2/stixex/m/n on input line 84.
+LaTeX Font Info:    Encoding `OMX' has changed to `LS2' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 84.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LS2/stixex/m/n on input line 84.
+\symarrows1=\mathgroup9
+\symarrows2=\mathgroup10
+\symarrows3=\mathgroup11
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  LS1/stix/m/it --> LS1/stix/b/it on input line 88.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  LS1/stix/m/n --> LS1/stix/b/n on input line 89.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LS1/stixscr/m/n --> LS1/stixscr/b/n on input line 90.
+LaTeX Font Info:    Overwriting symbol font `symbols2' in version `bold'
+(Font)                  LS1/stixfrak/m/n --> LS1/stixfrak/b/n on input line 91.
+
+LaTeX Font Info:    Overwriting symbol font `symbols3' in version `bold'
+(Font)                  LS1/stixbb/m/n --> LS1/stixbb/b/n on input line 92.
+LaTeX Font Info:    Overwriting symbol font `symbols4' in version `bold'
+(Font)                  LS1/stixbb/m/it --> LS1/stixbb/b/it on input line 93.
+LaTeX Font Info:    Overwriting symbol font `integrals' in version `bold'
+(Font)                  LS2/stixcal/m/n --> LS2/stixcal/b/n on input line 94.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LS2/stixex/m/n --> LS2/stixex/b/n on input line 95.
+LaTeX Font Info:    Overwriting symbol font `arrows1' in version `bold'
+(Font)                  LS1/stixsf/m/n --> LS1/stixsf/b/n on input line 96.
+LaTeX Font Info:    Overwriting symbol font `arrows2' in version `bold'
+(Font)                  LS1/stixsf/m/it --> LS1/stixsf/b/it on input line 97.
+LaTeX Font Info:    Overwriting symbol font `arrows3' in version `bold'
+(Font)                  LS2/stixtt/m/n --> LS2/stixtt/b/n on input line 98.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 99.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 106.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 108.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 227.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 698.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 699.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 700.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 701.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 702.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 703.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 704.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 705.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 707.
+LaTeX Font Info:    Redeclaring math accent \check on input line 708.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 716.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 728.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 729.
+LaTeX Info: Redefining \vdots on input line 1518.
+LaTeX Info: Redefining \cdots on input line 1522.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 1978.
+LaTeX Info: Redefining \not on input line 2144.
+)
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.s
+ty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+stix on input line 1
+12.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/t1stix.fd
+File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
+))
+\trimwidth=\skip71
+\trimheight=\skip72
+\typewidth=\skip73
+\typeheight=\skip74
+\normaltextheight=\skip75
+\blindfoliodrop=\skip76
+\figheight=\skip77
+\figwidth=\skip78
+\tabledim=\skip79
+\columnhsizevalue=\dimen275
+\abs@coli@hsize=\skip80
+\abs@colii@hsize=\skip81
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geome
+try.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex
+.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count315
+\Gm@cntv=\count316
+\c@Gm@tempcnt=\count317
+\Gm@bindingoffset=\dimen276
+\Gm@wd@mp=\dimen277
+\Gm@odd@mp=\dimen278
+\Gm@even@mp=\dimen279
+\Gm@layoutwidth=\dimen280
+\Gm@layoutheight=\dimen281
+\Gm@layouthoffset=\dimen282
+\Gm@layoutvoffset=\dimen283
+\Gm@dimlist=\toks31
+)
+\parindentvalue=\dimen284
+\pageheight=\dimen285
+\rulecount=\count318
+\leftcolrulepos=\dimen286
+\rightcolrulepos=\dimen287
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/eso-pic/showfr
+ame.sty
+Package: showframe 2020/10/14 v0.1j showframe (new impl., RN)
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/eso-pic/eso-pi
+c.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen288
+\ESO@tempdimb=\dimen289
+)
+\SF@tempdima=\dimen290
+)
+\artopleftskipdim=\dimen291
+\@xmlpage=\write3
+\c@spagecounter=\count319
+\c@lpagecounter=\count320
+LaTeX Info: Redefining \rm on input line 1300.
+LaTeX Info: Redefining \sf on input line 1301.
+LaTeX Info: Redefining \tt on input line 1302.
+LaTeX Info: Redefining \bf on input line 1303.
+LaTeX Info: Redefining \it on input line 1304.
+LaTeX Info: Redefining \sl on input line 1305.
+LaTeX Info: Redefining \sc on input line 1306.
+LaTeX Info: Redefining \cal on input line 1307.
+LaTeX Info: Redefining \mit on input line 1308.
+\aucount=\count321
+\corrauthcount=\count322
+\authfncnt=\count323
+\authfnTmpCnt=\count324
+\aufootnotemark=\box109
+\authmarkbox=\box110
+\c@affn=\count325
+\addcount=\count326
+\emailcount=\count327
+\punctcount=\count328
+\foot@titlepage@raise@skip=\skip82
+\lastauthorcnt=\count329
+\fundinginfocount=\count330
+\commafundinginfocount=\count331
+\fundinginfotempcount=\count332
+\tempfundinginfocount=\count333
+\JELinfocount=\count334
+\commaJELinfocount=\count335
+\JELinfotempcount=\count336
+\tempJELinfocount=\count337
+\htftbox=\box111
+\ovsize=\dimen292
+\oovsize=\dimen293
+\FreePageSpace=\dimen294
+\FreePageSpaceTest=\dimen295
+\fadjskip=\skip83
+\adjustskip=\skip84
+\titleskip=\skip85
+\abs@boxa=\box112
+\abs@boxb=\box113
+\abs@boxc=\box114
+\abs@dima=\dimen296
+\abs@dimb=\dimen297
+\abs@dimc=\dimen298
+\adjtitleskip=\skip86
+\c@chapter=\count338
+\secruleskip=\skip87
+\rhverticalsep=\skip88
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/natbib/natbib.
+sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip89
+\bibsep=\skip90
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count339
+)
+\c@scheme=\count340
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/bookt
+abs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen299
+\lightrulewidth=\dimen300
+\cmidrulewidth=\dimen301
+\belowrulesep=\dimen302
+\belowbottomsep=\dimen303
+\aboverulesep=\dimen304
+\abovetopsep=\dimen305
+\cmidrulesep=\dimen306
+\cmidrulekern=\dimen307
+\defaultaddspace=\dimen308
+\@cmidla=\count341
+\@cmidlb=\count342
+\@aboverulesep=\dimen309
+\@belowrulesep=\dimen310
+\@thisruleclass=\count343
+\@lastruleclass=\count344
+\@thisrulewidth=\dimen311
+)
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmat
+h.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip91
+For additional information on amsmath, use the `?' option.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstex
+t.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen
+.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen312
+))
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy
+.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen313
+)
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn
+.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count345
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count346
+\leftroot@=\count347
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count348
+\DOTSCASE@=\count349
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+\Mathstrutbox@=\box115
+\strutbox@=\box116
+\big@size=\dimen314
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count350
+\c@MaxMatrixCols=\count351
+\dotsspace@=\muskip17
+\c@parentequation=\count352
+\dspbrk@lvl=\count353
+\tag@help=\toks33
+\row@=\count354
+\column@=\count355
+\maxfields@=\count356
+\andhelp@=\toks34
+\eqnshift@=\dimen315
+\alignsep@=\dimen316
+\tagshift@=\dimen317
+\tagwidth@=\dimen318
+\totwidth@=\dimen319
+\lineht@=\dimen320
+\@envbody=\toks35
+\multlinegap=\skip92
+\multlinetaggap=\skip93
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amscls/amsthm.
+sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip94
+\thm@postskip=\skip95
+\thm@headsep=\skip96
+\dth@everypar=\toks42
+)
+\c@theorem=\count357
+\c@construction=\count358
+\c@estimate=\count359
+\c@lemma=\count360
+\c@corollary=\count361
+\c@result=\count362
+\c@algth=\count363
+\c@proposition=\count364
+\c@hypothesis=\count365
+\c@experiment=\count366
+\c@LWrule=\count367
+\c@procedure=\count368
+\c@assertion=\count369
+\c@axiom=\count370
+\c@conjecture=\count371
+\c@criterion=\count372
+\c@reduction=\count373
+\c@sublemma=\count374
+\c@case=\count375
+\c@remark=\count376
+\c@notation=\count377
+\c@answer=\count378
+\c@base=\count379
+\c@claim=\count380
+\c@ccomment=\count381
+\c@subproof=\count382
+\c@conclusion=\count383
+\c@observation=\count384
+\c@subcase=\count385
+\c@step=\count386
+\c@summary=\count387
+\c@definition=\count388
+\c@condition=\count389
+\c@property=\count390
+\c@problem=\count391
+\c@fact=\count392
+\c@assumption=\count393
+\c@eexample=\count394
+\c@model=\count395
+\c@affirmation=\count396
+\c@application=\count397
+\c@convention=\count398
+\c@discussion=\count399
+\c@exercise=\count400
+\c@question=\count401
+\c@scholium=\count402
+\c@terminology=\count403
+\c@printcitcnt=\count404
+\c@@pps=\count405
+\c@@ppsavesec=\count406
+\c@@ppsaveapp=\count407
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/algorithms/alg
+orithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks43
+\c@algorithm=\count408
+)
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/algorithmicx/a
+lgorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count409
+\c@ALG@rem=\count410
+\c@ALG@nested=\count411
+\ALG@tlm=\skip97
+\ALG@thistlm=\skip98
+\c@ALG@Lnr=\count412
+\c@ALG@blocknr=\count413
+\c@ALG@storecount=\count414
+\c@ALG@tmpcounter=\count415
+\ALG@tmplength=\skip99
+)
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/algorithmicx/a
+lgpseudocode.sty
+Package: algpseudocode 
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/listings/listi
+ngs.sty
+\lst@mode=\count416
+\lst@gtempboxa=\box117
+\lst@token=\toks44
+\lst@length=\count417
+\lst@currlwidth=\dimen321
+\lst@column=\count418
+\lst@pos=\count419
+\lst@lostspace=\dimen322
+\lst@width=\dimen323
+\lst@newlines=\count420
+\lst@lineno=\count421
+\lst@maxwidth=\dimen324
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/listings/lstmi
+sc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count422
+\lst@skipnumbers=\count423
+\lst@framebox=\box118
+)
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/listings/listi
+ngs.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+\jnlcitationbox=\box119
+\jnlcithsize=\dimen325
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/wrapfig/wrapfi
+g.sty
+\wrapoverhang=\dimen326
+\WF@size=\dimen327
+\c@WF@wrappedlines=\count424
+\WF@box=\box120
+\WF@everypar=\toks45
+Package: wrapfig 2003/01/31  v 3.6
+)
+\wraplines=\count425
+\@authorfigbox=\box121
+\@authorfigboxdim=\skip100
+\biofigadjskip=\skip101
+)
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3ba
+ckend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count426
+\l__pdf_internal_box=\box122
 )
 
-! LaTeX Error: File `stix.sty' not found.
+LaTeX Warning: Unused global option(s):
+    [AMA,STIX1COL].
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+(./statMedicineArticle.aux)
+\openout1 = `statMedicineArticle.aux'.
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.493 \usepackage
-                 [T1]{fontenc}^^M 
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 20.
+LaTeX Font Info:    Trying to load font information for LS1+stix on input line 
+20.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/ls1stix.f
+d
+File: ls1stix.fd 2015/04/17 v1.1.2-latex STIX LS1 font definitions
+)
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 20.
+LaTeX Font Info:    Trying to load font information for LS2+stix on input line 
+20.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/ls2stix.f
+d
+File: ls2stix.fd 2015/04/17 v1.1.2-latex STIX LS2 font definitions
+)
+LaTeX Font Info:    ... okay on input line 20.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/e
+pstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/ep
+stopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 20.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/namer
+ef.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/refco
+unt.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/gettitlestri
+ng/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count427
+)
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* vratio: 1:1
+* modes: twoside 
+* h-part:(L,W,R)=(45.0pt, 507.50787pt, 45.0pt)
+* v-part:(T,H,B)=(57.5pt, 668.79605pt, 59.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=785.29605pt
+* \textwidth=507.50787pt
+* \textheight=668.79605pt
+* \oddsidemargin=-27.26999pt
+* \evensidemargin=-27.26999pt
+* \topmargin=-46.76999pt
+* \headheight=21.0pt
+* \headsep=11.0pt
+* \topskip=6.0pt
+* \footskip=48.5pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=0.0pt
+* \skip\footins=18.0pt plus 2.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count428
+LaTeX Font Info:    Calculating math sizes for size <18> on input line 66.
+LaTeX Font Info:    Trying to load font information for LS1+stixscr on input li
+ne 66.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/ls1stixsc
+r.fd
+File: ls1stixscr.fd 2015/04/17 v1.1.2-latex STIX script LS1 font definitions
+)
+LaTeX Font Info:    Trying to load font information for LS2+stixex on input lin
+e 66.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/ls2stixex
+.fd
+File: ls2stixex.fd 2015/04/17 v1.1.2-latex STIX extentions LS2 font definitions
+
+)
+LaTeX Font Info:    Trying to load font information for LS1+stixfrak on input l
+ine 66.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/ls1stixfr
+ak.fd
+File: ls1stixfrak.fd 2015/04/17 v1.1.2-latex STIX fraktur LS1 font definitions
+)
+LaTeX Font Info:    Trying to load font information for LS1+stixbb on input lin
+e 66.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/ls1stixbb
+.fd
+File: ls1stixbb.fd 2015/04/17 v1.1.2-latex STIX blackboard LS1 font definitions
+
+)
+LaTeX Font Info:    Trying to load font information for LS2+stixcal on input li
+ne 66.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/ls2stixca
+l.fd
+File: ls2stixcal.fd 2015/04/17 v1.1.2-latex STIX calligraphic LS2 font definiti
+ons
+)
+LaTeX Font Info:    Trying to load font information for LS1+stixsf on input lin
+e 66.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/ls1stixsf
+.fd
+File: ls1stixsf.fd 2015/04/17 v1.1.2-latex STIX sans-serif LS1 font definitions
+
+)
+LaTeX Font Info:    Trying to load font information for LS2+stixtt on input lin
+e 66.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/ls2stixtt
+.fd
+File: ls2stixtt.fd 2015/04/17 v1.1.2-latex STIX typewriter LS2 font definitions
+
+)
+Overfull \hbox (346.99213pt too wide) in paragraph at lines 66--66
+[][] | || []|[][] 
+ []
+
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 66
+.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
+4.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Trying to load font information for TS1+stix on input line 
+84.
+
+(c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/stix/ts1stix.f
+d
+File: ts1stix.fd 2015/04/17 v1.1.2-latex STIX TS1 font definitions
+)
+Overfull \vbox (6.46347pt too high) has occurred while \output is active []
+
+[1{c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap
+/pdftex.map}
+
+\openout3 = `statMedicineArticle.pag'.
+
+]
+<statMedicineArticle_files/figure-latex/plot-ref-1.pdf, id=15, 469.755pt x 325.
+215pt>
+File: statMedicineArticle_files/figure-latex/plot-ref-1.pdf Graphic file (type 
+pdf)
+<use statMedicineArticle_files/figure-latex/plot-ref-1.pdf>
+Package pdftex.def Info: statMedicineArticle_files/figure-latex/plot-ref-1.pdf 
+ used on input line 153.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[2] [3 <./statMedicineArticle_files/figure-latex/plot-ref-1.pdf>] (./statMedici
+neArticle.bbl) [4] (./statMedicineArticle.aux) ) 
 Here is how much of TeX's memory you used:
- 10242 strings out of 480936
- 156806 string characters out of 5904525
- 449813 words of memory out of 5000000
- 27352 multiletter control sequences out of 15000+600000
- 403849 words of font info for 29 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 86i,0n,88p,265b,46s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 18628 strings out of 480936
+ 269043 string characters out of 5904525
+ 553630 words of memory out of 5000000
+ 35512 multiletter control sequences out of 15000+600000
+ 515266 words of font info for 167 fonts, out of 8000000 for 9000
+ 40 hyphenation exceptions out of 8191
+ 86i,10n,88p,1008b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/Users/ntorrento/AppData/Roa
+ming/TinyTeX/texmf-dist/fonts/enc/dvips/stix/stix-t1.enc}{c:/Users/ntorrento/Ap
+pData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/stix/stix-ts1.enc} <c:/Users/n
+torrento/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000
+.600pk><c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/publi
+c/stix/STIXGeneral-Bold.pfb><c:/Users/ntorrento/AppData/Roaming/TinyTeX/texmf-d
+ist/fonts/type1/public/stix/STIXGeneral-Italic.pfb><c:/Users/ntorrento/AppData/
+Roaming/TinyTeX/texmf-dist/fonts/type1/public/stix/STIXGeneral-Regular.pfb>
+Output written on statMedicineArticle.pdf (4 pages, 148894 bytes).
+PDF statistics:
+ 199 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!
